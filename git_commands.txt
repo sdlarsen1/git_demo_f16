@@ -1,1 +1,13 @@
 We are learning git commands today.
+
+We learned about 'git branch', it is used to make copiesof our code that we can edit distinctly from other parts of the project
+example usage:
+git branch <my_new_branch>
+git checkout <my_new_branch>
+git cheack -a   # to check that we are on the correct branch!
+
+Another command we learned about was 'git add', it is used to add a file to our project such that we can share it with our friends.
+example usage:
+git add my_new_file.txt
+git status   # to list the new files or changes that have been added to your project
+git diff    # will show what changes you have made
