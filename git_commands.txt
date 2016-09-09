@@ -22,4 +22,4 @@ git commit -am 'my 2 files for an example'
 git rm my_file2.txt
 git status   # this will ifnorm the duplicate has been removed
 
-This is an example of a  merge conflict.
+Fixed the conflict.
