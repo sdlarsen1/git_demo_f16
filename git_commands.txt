@@ -11,3 +11,13 @@ example usage:
 git add my_new_file.txt
 git status   # to list the new files or changes that have been added to your project
 git diff    # will show what changes you have made
+
+Another command that corresponds to 'git add' is 'git rm'
+examples usage:
+git add my_file.txt
+cp my_file.txt my_file2.txt
+git add my_file2.txt
+git status    # this will show that 2 files have been added
+git commit -am 'my 2 files for an example'
+git rm my_file2.txt
+git status   # this will ifnorm the duplicate has been removed
