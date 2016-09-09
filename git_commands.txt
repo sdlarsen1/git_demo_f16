@@ -21,3 +21,5 @@ git status    # this will show that 2 files have been added
 git commit -am 'my 2 files for an example'
 git rm my_file2.txt
 git status   # this will ifnorm the duplicate has been removed
+
+This is an example fo a merge conflict.
